@@ -1,0 +1,5 @@
+INFO: System boot completed
+WARNING: Disk space low
+ERROR: Failed to load driver
+CRITICAL: Kernel panic detected
+ERROR: Network timeout
